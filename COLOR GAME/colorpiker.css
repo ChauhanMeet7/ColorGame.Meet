@@ -1,5 +1,5 @@
 body {
-	background-color: #000000;	
+	background-color: #312929;	
 	margin: 0;
 	font-family : "Montserrat","Avenier";
 }
@@ -25,7 +25,7 @@ h1{
 	color: white;
 	text-align: center;
 	line-height: 1.1;
-	background-color: rgb(0, 255, 34);
+	background-color: steelblue;
 	margin: 0;
 	font-weight: normal;
 	padding: 20px 0;
@@ -45,7 +45,7 @@ h1{
 
 .selected {
 	color: white;
-	background: rgb(0, 255, 34);
+	background: steelblue;
 
 }
 
@@ -69,5 +69,5 @@ button {
 
 button:hover {
 	color: white;
-	background:rgb(0, 255, 34);
+	background: steelblue;
 }
